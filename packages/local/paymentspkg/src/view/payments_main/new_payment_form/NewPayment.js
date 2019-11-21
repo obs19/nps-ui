@@ -108,7 +108,6 @@ Ext.define('payments.view.payments_main.new_payment_form.NewPayment', {
             queryMode: 'local',
             listeners: {
                 change: 'onPaymentActionComboChange'
-                // select: 'onPaymentTypeComboChose',
             },
             name: 'dictPaymentAction'
         },

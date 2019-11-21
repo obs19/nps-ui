@@ -288,21 +288,9 @@ Ext.define('payments.view.basket.BasketMainCtrl', {
 
 //***********************************************************
 
-    // formatToolTipText: function(record){
-    //     return  '<p><b>' + Translation.paymentInfoPanelRecipient + ':  </b><br/>'
-    //         + record.data.clientName + '</p>' +
-    //         '<p><b>' + Translation.paymentInfoPanelClientName + ':  </b><br/>'
-    //         + record.data.recipient + '</p>';
-    // }
 
     // fnGetGridStoreSize: function () {
     //     return this.getViewModel().getGridStore().getTotalCount();
-    // },
-
-    // isBtnSubmitDisabled: function (elem) {
-    //     if (this.fnGetGridStoreSize() < 1){
-    //         elem.setDisabled(true);
-    //     }
     // },
 
     // fnRemoveItemFromGridStore: function (item) {
