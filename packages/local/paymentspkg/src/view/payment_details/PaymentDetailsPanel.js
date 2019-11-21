@@ -6,7 +6,6 @@ Ext.define("payments.view.payment_details.PaymentDetailsPanel", {
     viewModel: {
         type: 'payment_detail_form-model'
     },
-    // viewModel: 'basket-payment-model',
     // reference: 'script_ic_form-panel',
     config:{
         configParams:{

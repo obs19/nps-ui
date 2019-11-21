@@ -41,7 +41,6 @@ Ext.define('payments.model.Payment', {
         },
         {
             name: 'amount',
-            // type: 'string'
             type: 'number'
         },
         //payment info

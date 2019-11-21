@@ -33,7 +33,6 @@ Ext.define('payments.view.payment_history.PaymentHistoryCtrl', {
         panelWindow.show();
     },
 
-    // showToolTip: function (elem, record, tr, rowIndex, e, eOpts) {
     showToolTip: function (elem, td, cellIndex, record, tr, rowIndex, e, eOpts) {
         let me = this;
         Ext.create('Ext.tip.ToolTip', {
